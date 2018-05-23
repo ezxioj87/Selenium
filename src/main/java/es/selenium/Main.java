@@ -36,7 +36,7 @@ public class Main {
 //		
 //		prueba.getDriver().findElement(By.id("lst-ib")).sendKeys("lista de convocados selección española mundial 2018 rtve");
 //		
-//		prueba.getDriver().findElement(By.name("btnK")).click();
+//		prueba.getDriver().findElement(By.name("btnK")).click()
 //		
 //		System.out.println(prueba.getDriver().findElement(By.id("resultStats")).getText());
 //		
